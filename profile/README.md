@@ -1,3 +1,3 @@
 # EZC
 
-<img src='../images/image.png' alt='architecture'/>
+<img src='image.png' alt='architecture'/>
